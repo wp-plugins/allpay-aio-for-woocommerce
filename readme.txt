@@ -10,7 +10,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Allpay AIO for WooCommerce allows you to accept payment on your Woocommerce store via Allpay payment gateway in Taiwan.
 
 == Description ==
-
 = WooCommerce歐付寶全方位金流外掛 =
 WooCommerce與在台灣最具規模的歐付寶第三方付款金流，只要一個外掛就輕鬆搞定! 豐富的設定選項、詳盡的資訊流程，讓您使用第三方收付更加的方便!
 
@@ -30,6 +29,9 @@ WooCommerce與在台灣最具規模的歐付寶第三方付款金流，只要一
 * __排除付款方式__ 您可設定需要排除哪些付款方式，讓您的收款方式更加簡單
 
 觀看更多[特色介紹](http://www.innovext.com/tw/woocommerce-allpay-aio/)
+
+= 版本需求 =
+WooCommerce 2.2 以上
 
 = 意見回鐀 =
 如果您有任何意見回饋的話，請到因創科技官方網站[聯絡我們](http://www.innovext.com/tw/contact-us/)
