@@ -81,7 +81,7 @@ http://vendor-stage.allpay.com.tw/
 請選擇台新銀行，有模擬付款
 
 == Screenshots ==
-`/assets/screenshot-1.png`
+`assets/screenshot-1.png`
 
 == Changelog ==
 v1.0
