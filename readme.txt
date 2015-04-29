@@ -29,6 +29,8 @@ WooCommerce與在台灣最具規模的歐付寶第三方付款金流，只要一
 * __自訂繳費期限__ 可讓您找到跟顧客之間收付期限的平衡點
 * __排除付款方式__ 您可設定需要排除哪些付款方式，讓您的收款方式更加簡單
 
+觀看更多[特色介紹](http://www.innovext.com/tw/woocommerce-allpay-aio/)
+
 = 意見回鐀 =
 如果您有任何意見回饋的話，請到因創科技官方網站[聯絡我們](http://www.innovext.com/tw/contact-us/)
 
