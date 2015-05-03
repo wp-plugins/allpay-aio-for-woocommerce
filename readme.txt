@@ -93,3 +93,6 @@ v1.0.2
 remove - unnecessary codes
 tweak - refine codes in get_allpay_args()
 fix - wrong return value in thankyou_order_received_text()
+
+v1.0.3
+fix - wrong thankyou page message when choose CVS and return to shop
