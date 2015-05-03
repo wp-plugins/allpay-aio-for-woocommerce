@@ -423,7 +423,7 @@ function innovext_allpay_aio_gateway_init() {
             if( $return_code ) {
                 if( $return_code === '1' && $this->instruction_succ ) {
                     echo wpautop( wptexturize( $this->instruction_succ ) );
-                } elseif( ( $return_code === '2' || $return_code === '10100073 ' ) && $this->instruction_on_hold ) {
+                } elseif( ( $return_code === '2' || $return_code === '10100073' ) && $this->instruction_on_hold ) {
                     echo wpautop( wptexturize( $this->instruction_on_hold ) );
                 } else {
                     echo '<p style="padding: 5px 15px;background-color: #FFD0D0;border: 1px solid #E30000;">錯誤代碼 : '.$return_code.'</p>';                    
@@ -453,10 +453,10 @@ function innovext_allpay_aio_gateway_init() {
             if( $return_code ) {
                 if( $return_code === '1' && $this->instruction_succ ) {
                     return wpautop( wptexturize( $this->instruction_succ ) );
-                } elseif( ( $return_code === '2' || $return_code === '10100073 ' ) && $this->instruction_on_hold ) {
+                } elseif( ( $return_code === '2' || $return_code === '10100073' ) && $this->instruction_on_hold ) {
                     return wpautop( wptexturize( $this->instruction_on_hold ) );
                 } else {
-                    return '<p style="padding: 5px 15px;background-color: #FFD0D0;border: 1px solid #E30000;">錯誤代碼 : '.$return_code.'</p>';                    
+                    return '<p style="padding: 5px 15px;background-color: #FFD0D0;border: 1px solid #E30000;">錯誤代碼 : '.$return_code.'</p>';
                 }
             } else {
                 return '<p style="padding: 5px 15px;background-color: #FFD0D0;border: 1px solid #E30000;">發生錯誤，無法取得訂單狀態，若您已付款，請通知商店管理員。</p>';
